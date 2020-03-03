@@ -1,3 +1,3 @@
 # chronological earth
 
-A website chronologically records weather conditions, phenology events and other natural phenomenon of all the cities on earth
+A website chronologically records weather conditions, phenological events and other natural phenomenons of all the cities on earth
